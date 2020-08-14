@@ -4,6 +4,7 @@ Just a simple experiment of face detection using Haar Cascade Classifier Algorit
 ---
 
 ## How run it 
-(https://img.shields.io/badge/Python-3.8.5-green)
+[![Python !](https://img.shields.io/badge/Python-3.8.5-green)]
+
 
 
